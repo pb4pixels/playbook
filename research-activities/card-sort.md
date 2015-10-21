@@ -14,7 +14,7 @@ In theory there are three types of card sorts:
 
 1. **Open card sorts** are free form. Participants write types of information or actions on cards. This should be focused on what they need to do to complete an action related to the service. They then group these cards and title the groupings. These card sorts are harder to run but give us insights into semantics as well as categorisation.
 2. **Closed card sorts** have restricted number of cards with a single peice of information or action *already* written on each. Participants read the cards and group them with one card as the title for each group. These card sorts enable us to compare categorisation of the same words. 
-3. **Priority card sorts**: Participants order cards according to how important they are. These card sorts allow use to understand what scales people are using to measure importance as well as which things are most important to them.
+3. **Priority card sorts** allow participants to order cards according to how important they are. These card sorts allow use to understand what scales people are using to measure importance as well as which things are most important to them.
 
 In practice you will probably use a combination of these card sorts
 
