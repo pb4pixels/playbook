@@ -12,16 +12,16 @@ Card sorts are a good way to figure out how information or transactions should b
 
 In theory there are three types of card sorts:
 
-1. Open card sorts are free form. Participants write types of information or actions on cards. This should be focused on what they need to do to complete an action related to the service. They then group these cards and title the groupings. These card sorts are harder to run but give us insights into semantics as well as categorisation.
-2. Closed card sorts have restricted number of cards with a single peice of information or action *already* written on each. Participants read the cards and group them with one card as the title for each group. These card sorts enable us to compare categorisation of the same words. 
-3. Priority card sorts: Participants order cards according to how important they are. These card sorts allow use to understand what scales people are using to measure importance as well as which things are most important to them.
+1. **Open card sorts** are free form. Participants write types of information or actions on cards. This should be focused on what they need to do to complete an action related to the service. They then group these cards and title the groupings. These card sorts are harder to run but give us insights into semantics as well as categorisation.
+2. **Closed card sorts** have restricted number of cards with a single peice of information or action *already* written on each. Participants read the cards and group them with one card as the title for each group. These card sorts enable us to compare categorisation of the same words. 
+3. **Priority card sorts**: Participants order cards according to how important they are. These card sorts allow use to understand what scales people are using to measure importance as well as which things are most important to them.
 
 In practice you will probably use a combination of these card sorts
 
 ## How to run a card sort
 
-1. Invite and cofirm a range of (potential) users 
-2. Introductions (and ice breakers)
+1. *Before the day* Invite and cofirm a range of (potential) users 
+2. *On the day* Introductions (and ice breakers)
 3. Expectations setting of what the activity will involve and a high level explantion of how card sorts are helpful
 4. Arrange participants into a few mixed groups of 3-5 participants
 3. Ask partipants to read or write on the cards. It should be one thing on each card, represented by no more than five words
