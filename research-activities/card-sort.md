@@ -20,17 +20,17 @@ In practice you will probably use a combination of these card sorts
 
 ## How to run a card sort
 
-1. *Before the day* Invite and cofirm a range of (potential) users 
-2. *On the day* Introductions (and ice breakers)
-3. Expectations setting of what the activity will involve and a high level explantion of how card sorts are helpful
+1. *Before the day*: Invite and cofirm a range of (potential) users 
+2. *On the day*: Introductions (and ice breakers)
+3. Set expectations of what the activity will involve and a high level explantion of how card sorts are helpful
 4. Arrange participants into a few mixed groups of 3-5 participants
 3. Ask partipants to read or write on the cards. It should be one thing on each card, represented by no more than five words
 4. Rotate round the groups; observing each one and asking them to explain their understanding of cards at regular intervals
 2. Ask the participants to group the cards and give each group a name
-3. Rotate round the groups; identify the cards that get more discussion over others. Encourage discussion in each group. Think about which cards are contentious? why does it belong or not to a group? Why does this group have this heading? What does it mean?
+3. Rotate round the groups; identify the cards that get more discussion over others. Encourage discussion in each group. Think about which cards are contentious? Why does it belong to a group or not? Why does this group have this heading? What does it mean?
 4. Ask participants to rank the groups in order of priority
-5. Rotate round the groups : identify which cards are important and which cards are not. Encourage the groups to question themselves and justify the position of cards at either end of the scale.
-6. Optional: Each group to present to everyone
+5. Rotate round the groups; identify which cards are important and which cards are not. Encourage the groups to question themselves and justify the position of cards at either end of the scale.
+6. Optional: each group to present to everyone
 5. At the end of the session ask if anyone has any comments or reflections they would like to share
 6. Thank participants and tell them how this card sort will help the development of this digital service and what they can expect to happen next
 
