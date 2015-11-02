@@ -80,11 +80,44 @@ If you are making a substantial change (perhaps following a team conversation) p
 
 ### Discovery, research and usability testing
 
+At dxw we deliever valued services that work for people. We use research to learn about:
+
+1. The users and the shape of the problem we're solving for them
+2. The service; its infrastructure, dependencies and potential impact of different solutions
+3. How well the solution works in practice for users
+
+We use a variety of methods that are effective at learning different types of things in order to maximise our understanding. They fall into two broad groups:
+
+1. Quantative: good at counting and identifying the scale of things by measuring the frequncey of a defined event
+2. Qualitative: good at detail and understanding different logics by learning how and why users porblem solve
+
+When we use both together we can make safe assumptions on how and why users are interacting a service on a large scale.
+
 #### Scheduling
+
+TODO DMs?
 
 #### Field work
 
-#### Reporting
+At dxw we do both remote and 'in field' research. 'In field' research simply means being in the envinoment of the people or thing that you are learning about. As we're in their envirnoment there we take care to be respectful. 
+
+TODO write research ethics manifesto (own time)
+
+#### Reports & research artefacts
+
+Documenting what happened and what we learned is important. At dxw we don't believe in long reports that get left in drawers. We work hard to make research actionable.
+
+**Hypothesis** 
+At dxw we write our ideas about what might work into hypothesises. This allows us to test the solution and measure it clearly against our expectations in a concise and actionable way.
+
+**User stories**
+We use user stories to capture the needs, actions and expectations of different users. This makes research easier to remember and is by far the most successful communication method in terms of acting on the research findings. 
+
+**Reports**
+We write one page reports at each stage of research. This lets us see which methods contributed to which bits of knowledge. It also allows us to audit the research for variables and itterate on the methods used. 
+
+**Slidedeck**
+
 
 ### Sprints
 We sprint. Sprint zero. Sprints are the same in all phases.
