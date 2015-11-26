@@ -99,7 +99,7 @@ TODO DMs?
 
 #### Field work
 
-At dxw we do both remote and 'in field' research. 'In field' research simply means being in the envinoment of the people or thing that you are learning about. As we're in their envirnoment there we take care to be respectful. 
+At dxw we do both remote and 'in field' research. 'In field' research simply means being in the envinoment of the people or thing that you are learning about. When we're in their envirnoment we take extra care to be respectful. 
 
 TODO write research ethics manifesto (own time)
 
@@ -109,15 +109,15 @@ Documenting what happened and what we learned is important. At dxw we don't beli
 
 **Hypothesis** 
  
-At dxw we write our ideas about what might work into hypothesises. This allows us to test the solution and measure it clearly against our expectations in a concise and actionable way.
+At dxw we write our ideas about what might work as hypothesises. This allows us to test the solution and measure it clearly against our expectations in a concise and actionable way.
 
 **User stories**
  
-We use user stories to capture the needs, actions and expectations of different users. This makes research easier to remember and is by far the most successful communication method in terms of acting on the research findings. 
+We write user stories to capture the needs, actions and expectations of users. This makes research easier to act on.  It is very successful method to intergrate research with development. 
 
 **Reports**
  
-We write one page reports at each stage of research. This lets us see which methods contributed to which bits of knowledge. It also allows us to audit the research for variables and itterate on the methods used. 
+We write very short reports at each stage of research. This lets us see which methods contributed to which bits of knowledge. It also allows us to audit the research for variables and itterate on the methods used. 
 
 **Slidedeck**
  
