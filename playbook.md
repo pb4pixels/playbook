@@ -113,7 +113,7 @@ At dxw we write our ideas about what might work as hypothesises. This allows us 
 
 **User stories**
  
-We write user stories to capture the needs, actions and expectations of users. This makes research easier to act on.  It is very successful method to intergrate research with development. 
+We write user stories to capture the needs, actions and expectations of users. Stories are single sentences. The structure of a story is: "As a...I need... So that..." This makes research easier to act on.  It is very successful method to intergrate research with development. 
 
 **Reports**
  
