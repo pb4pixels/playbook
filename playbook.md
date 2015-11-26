@@ -108,16 +108,20 @@ TODO write research ethics manifesto (own time)
 Documenting what happened and what we learned is important. At dxw we don't believe in long reports that get left in drawers. We work hard to make research actionable.
 
 **Hypothesis** 
+ 
 At dxw we write our ideas about what might work into hypothesises. This allows us to test the solution and measure it clearly against our expectations in a concise and actionable way.
 
 **User stories**
+ 
 We use user stories to capture the needs, actions and expectations of different users. This makes research easier to remember and is by far the most successful communication method in terms of acting on the research findings. 
 
 **Reports**
+ 
 We write one page reports at each stage of research. This lets us see which methods contributed to which bits of knowledge. It also allows us to audit the research for variables and itterate on the methods used. 
 
 **Slidedeck**
-
+ 
+We write slidedecks to show insights from research in a tangible and quick to understand way. The reason we choose a slide-deck format is because it presents information in a modular way. Each slide makes sense independently. When read through the slides sit along side each other in a logical order; beginning with a summary of what happened, then focusing on user needs, context and hypothesis, resulting in a list of recommendations and questions. 
 
 ### Sprints
 We sprint. Sprint zero. Sprints are the same in all phases.
