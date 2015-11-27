@@ -97,9 +97,13 @@ When we use both together we can make safe assumptions on how and why users are 
 
 TODO DMs?
 
+#### Remote research
+
+Remote research means learning about the users or problem without being with them. There are lots of online services offering a vairety of methods such as surveys, online card sorts or analytics. However phone interviews or posted questionaires, diary studies are also remote research tactics.
+
 #### Field work
 
-At dxw we do both remote and 'in field' research. 'In field' research simply means being in the envinoment of the people or thing that you are learning about. When we're in their envirnoment we take extra care to be respectful. 
+'In field' research simply means being in the envinoment of the people or thing that you are learning about. For example face to face interviews, participant observation or worshops.  When we're in their envirnoment we take extra care to be respectful. 
 
 TODO write research ethics manifesto (own time)
 
@@ -113,7 +117,7 @@ At dxw we write our ideas about what might work as hypothesises. This allows us 
 
 **User stories**
  
-We write user stories to capture the needs, actions and expectations of users. Stories are single sentences. The structure of a story is: "As a...I need... So that..." This makes research easier to act on.  It is very successful method to intergrate research with development. 
+We write user stories to capture the actions and outcomes users need. Stories are single sentences. The structure of a story is: "As a...I need... So that..." This makes research easier to act on.  It is very successful method to intergrate research with development. 
 
 **Reports**
  
@@ -122,6 +126,10 @@ We write very short reports at each stage of research. This lets us see which me
 **Slidedeck**
  
 We write slidedecks to show insights from research in a tangible and quick to understand way. The reason we choose a slide-deck format is because it presents information in a modular way. Each slide makes sense independently. When read through the slides sit along side each other in a logical order; beginning with a summary of what happened, then focusing on user needs, context and hypothesis, resulting in a list of recommendations and questions. 
+
+#### Usability testing
+
+At dxw we consider usability testing a part of the development process. They test the work to insure that it is meeting user needs and accessible to a range of users.
 
 ### Sprints
 We sprint. Sprint zero. Sprints are the same in all phases.
